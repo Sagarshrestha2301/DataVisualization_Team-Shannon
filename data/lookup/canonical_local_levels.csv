@@ -1,0 +1,754 @@
+province_code,province_name,district_code,district_name,local_level_code,local_level_name
+1,Koshi,1,Taplejung,1,Phaktanlung Gaunpalika
+1,Koshi,1,Taplejung,2,Mikwakhola Gaunpalika
+1,Koshi,1,Taplejung,3,Meringden Gaunpalika
+1,Koshi,1,Taplejung,4,Maiwakhola Gaunpalika
+1,Koshi,1,Taplejung,5,Aatharai Tribeni Gaunpalika
+1,Koshi,1,Taplejung,6,Phungling Municipality
+1,Koshi,1,Taplejung,7,Pathivara Yangwarak Gaunpalika
+1,Koshi,1,Taplejung,8,Sirijanga Gaunpalika
+1,Koshi,1,Taplejung,9,Sidingba Gaunpalika
+1,Koshi,2,Sankhuwasabha,1,Bhotkhola Gaunpalika
+1,Koshi,2,Sankhuwasabha,2,Makalu Gaunpalika
+1,Koshi,2,Sankhuwasabha,3,Silichong Gaunpalika
+1,Koshi,2,Sankhuwasabha,4,Chichila Gaunpalika
+1,Koshi,2,Sankhuwasabha,5,Sabhapokhari Gaunpalika
+1,Koshi,2,Sankhuwasabha,6,Khandabari Municipality
+1,Koshi,2,Sankhuwasabha,7,Panchakhapan Municipality
+1,Koshi,2,Sankhuwasabha,8,Chainapur Municipality
+1,Koshi,2,Sankhuwasabha,9,Madi Municipality
+1,Koshi,2,Sankhuwasabha,10,Dharmadevi Municipality
+1,Koshi,3,Solukhumbu,1,Khumbu Pasanglhamu Gaunpalika
+1,Koshi,3,Solukhumbu,2,Mahakulung Gaunpalika
+1,Koshi,3,Solukhumbu,3,Sotang Gaunpalika
+1,Koshi,3,Solukhumbu,4,Mapya Dudhkoshi Gaunpalika
+1,Koshi,3,Solukhumbu,5,Thulung Dudhkoshi Gaunpalika
+1,Koshi,3,Solukhumbu,6,Necha Salyan Gaunpalika
+1,Koshi,3,Solukhumbu,7,Solu Dhudhakunda Municipality
+1,Koshi,3,Solukhumbu,8,Likhu Pike Gaunpalika
+1,Koshi,4,Okhaldhunga,1,Chishankhu Gadhi Gaunpalika
+1,Koshi,4,Okhaldhunga,2,Siddhicharan Municipality
+1,Koshi,4,Okhaldhunga,3,Molung Gaunpalika
+1,Koshi,4,Okhaldhunga,4,Khiji Demba Gaunpalika
+1,Koshi,4,Okhaldhunga,5,Likhu Gaunpalika
+1,Koshi,4,Okhaldhunga,6,Champadevi Gaunpalika
+1,Koshi,4,Okhaldhunga,7,Sunkoshi Gaunpalika
+1,Koshi,4,Okhaldhunga,8,Manebhanjyang Gaunpalika
+1,Koshi,5,Khotang,1,Kepilasgadhi Gaunpalika
+1,Koshi,5,Khotang,2,Aiselukharka Gaunpalika
+1,Koshi,5,Khotang,3,Rawa Besi Gaunpalika
+1,Koshi,5,Khotang,4,Halesi Tuwachung Municipality
+1,Koshi,5,Khotang,5,Diktel Rupakot Majhuwagadhi Municipality
+1,Koshi,5,Khotang,6,Sakela Gaunpalika
+1,Koshi,5,Khotang,7,Diprung Chuichumma Gaunpalika
+1,Koshi,5,Khotang,8,Khotehang Gaunpalika
+1,Koshi,5,Khotang,9,Jante Dhunga Gaunpalika
+1,Koshi,5,Khotang,10,Baraha Pokhari Gaunpalika
+1,Koshi,6,Bhojpur,1,Shadananda Municipality
+1,Koshi,6,Bhojpur,2,Salpa Silichho Gaunpalika
+1,Koshi,6,Bhojpur,3,Temkemaiyum Gaunpalika
+1,Koshi,6,Bhojpur,4,Bhojpur Municipality
+1,Koshi,6,Bhojpur,5,Arun Gaunpalika
+1,Koshi,6,Bhojpur,6,Pauwa Dunma Gaunpalika
+1,Koshi,6,Bhojpur,7,Ramprasad Rai Gaunpalika
+1,Koshi,6,Bhojpur,8,Hatuwagadhi Gaunpalika
+1,Koshi,6,Bhojpur,9,Aamchowk Gaunpalika
+1,Koshi,7,Dhankuta,1,Mahalaxmi Municipality
+1,Koshi,7,Dhankuta,2,Pakhribas Municipality
+1,Koshi,7,Dhankuta,3,Chhathar Jorpati Gaunpalika
+1,Koshi,7,Dhankuta,4,Dhankuta Municipality
+1,Koshi,7,Dhankuta,5,Shahidbhumi Gaunpalika
+1,Koshi,7,Dhankuta,6,Sangurigadhi Gaunpalika
+1,Koshi,7,Dhankuta,7,Chaubise Gaunpalika
+1,Koshi,8,Terhathum,1,Aatharai Gaunpalika
+1,Koshi,8,Terhathum,2,Phedap Gaunpalika
+1,Koshi,8,Terhathum,3,Menchhayayem Gaunpalika
+1,Koshi,8,Terhathum,4,Myanglung Municipality
+1,Koshi,8,Terhathum,5,Laligurans Municipality
+1,Koshi,8,Terhathum,6,Chhathar Gaunpalika
+1,Koshi,9,Panchthar,1,Yangbarak Gaunpalika
+1,Koshi,9,Panchthar,2,Hilihan Gaunpalika
+1,Koshi,9,Panchthar,3,Falelung Gaunpalika
+1,Koshi,9,Panchthar,4,Phidim Municipality
+1,Koshi,9,Panchthar,5,Falgunanda Gaunpalika
+1,Koshi,9,Panchthar,6,Kummayak Gaunpalika
+1,Koshi,9,Panchthar,7,Tumbewa Gaunpalika
+1,Koshi,9,Panchthar,8,Miklajung Gaunpalika
+1,Koshi,10,Ilam,1,Mai Jogmai Gaunpalika
+1,Koshi,10,Ilam,2,Sandakpur Gaunpalika
+1,Koshi,10,Ilam,3,Illam Municipality
+1,Koshi,10,Ilam,4,Deumai Municipality
+1,Koshi,10,Ilam,5,Fakfokathum Gaunpalika
+1,Koshi,10,Ilam,6,Mangsebung Gaunpalika
+1,Koshi,10,Ilam,7,Chulachuli Gaunpalika
+1,Koshi,10,Ilam,8,Mai Municipality
+1,Koshi,10,Ilam,9,Suryodaya Municipality
+1,Koshi,10,Ilam,10,Rong Gaunpalika
+1,Koshi,11,Jhapa,1,Mechinagar Municipality
+1,Koshi,11,Jhapa,2,Buddhashanti Gaunpalika
+1,Koshi,11,Jhapa,3,Arjundhara Municipality
+1,Koshi,11,Jhapa,4,Kankai Municipality
+1,Koshi,11,Jhapa,5,Shivasatakshi Municipality
+1,Koshi,11,Jhapa,6,Kamal Gaunpalika
+1,Koshi,11,Jhapa,7,Damak Municipality
+1,Koshi,11,Jhapa,8,Gauradaha Municipality
+1,Koshi,11,Jhapa,9,Gauriganj Gaunpalika
+1,Koshi,11,Jhapa,10,Jhapa Gaunpalika
+1,Koshi,11,Jhapa,11,Barhadashi Gaunpalika
+1,Koshi,11,Jhapa,12,Birtamod Municipality
+1,Koshi,11,Jhapa,13,Haldibari Gaunpalika
+1,Koshi,11,Jhapa,14,Bhadrapur Municipality
+1,Koshi,11,Jhapa,15,Kachanakawal Gaunpalika
+1,Koshi,12,Morang,1,Miklajung Gaunpalika
+1,Koshi,12,Morang,2,Letang Municipality
+1,Koshi,12,Morang,3,Kerabari Gaunpalika
+1,Koshi,12,Morang,4,Sundarharaicha Municipality
+1,Koshi,12,Morang,5,Belbari Municipality
+1,Koshi,12,Morang,6,Kanepokhari Gaunpalika
+1,Koshi,12,Morang,7,Pathari Shanishchare Municipality
+1,Koshi,12,Morang,8,Urlabari Municipality
+1,Koshi,12,Morang,9,Ratuwamai Municipality
+1,Koshi,12,Morang,10,Sunwarshi Municipality
+1,Koshi,12,Morang,11,Rangeli Municipality
+1,Koshi,12,Morang,12,Gramthan Gaunpalika
+1,Koshi,12,Morang,13,Budhiganga Gaunpalika
+1,Koshi,12,Morang,14,Biratnagar Metropolitian City
+1,Koshi,12,Morang,15,Katahari Gaunpalika
+1,Koshi,12,Morang,16,Dhanapalthan Gaunpalika
+1,Koshi,12,Morang,17,Jahada Gaunpalika
+1,Koshi,13,Sunsari,1,Dharan Sub-Metropolitian City
+1,Koshi,13,Sunsari,2,Barahachhetra Municipality
+1,Koshi,13,Sunsari,3,Koshi Gaunpalika
+1,Koshi,13,Sunsari,4,Bhokraha Narsingh Gaunpalika
+1,Koshi,13,Sunsari,5,Ramdhuni Municipality
+1,Koshi,13,Sunsari,6,Itahari Sub-Metropolitian City
+1,Koshi,13,Sunsari,7,Duhabi Municipality
+1,Koshi,13,Sunsari,8,Gadhi Gaunpalika
+1,Koshi,13,Sunsari,9,Inaruwa Municipality
+1,Koshi,13,Sunsari,10,Harinagar Gaunpalika
+1,Koshi,13,Sunsari,11,Dewangunj Gaunpalika
+1,Koshi,13,Sunsari,12,Barju Gaunpalika
+1,Koshi,14,Udayapur,1,Belaka Municipality
+1,Koshi,14,Udayapur,2,Chaudandigadhi Municipality
+1,Koshi,14,Udayapur,3,Triyuga Municipality
+1,Koshi,14,Udayapur,4,Rautamai Gaunpalika
+1,Koshi,14,Udayapur,5,Limchunbung Gaunpalika
+1,Koshi,14,Udayapur,6,Tapli Gaunpalika
+1,Koshi,14,Udayapur,7,Katari Municipality
+1,Koshi,14,Udayapur,8,Udayapurgadhi Gaunpalika
+2,Madhesh,15,Saptari,1,Saptakoshi Municipality
+2,Madhesh,15,Saptari,2,Kanchanrup Municipality
+2,Madhesh,15,Saptari,3,Agnisair Krishna Sabaran Gaunpalika
+2,Madhesh,15,Saptari,4,Rupani Gaunpalika
+2,Madhesh,15,Saptari,5,Shambhunath Municipality
+2,Madhesh,15,Saptari,6,Khadak Municipality
+2,Madhesh,15,Saptari,7,Surunga Municipality
+2,Madhesh,15,Saptari,8,Balan-Bihul Gaunpalika
+2,Madhesh,15,Saptari,9,Bode Barsain Municipality
+2,Madhesh,15,Saptari,10,Dakneshwori Municipality
+2,Madhesh,15,Saptari,11,Rajgadh Gaunpalika
+2,Madhesh,15,Saptari,12,Bishnupur Gaunpalika
+2,Madhesh,15,Saptari,13,Rajbiraj Municipality
+2,Madhesh,15,Saptari,14,Mahadewa Gaunpalika
+2,Madhesh,15,Saptari,15,Tirahut Gaunpalika
+2,Madhesh,15,Saptari,16,Hanumannagar Kankalini Municipality
+2,Madhesh,15,Saptari,17,Tilathi Koiladi Gaunpalika
+2,Madhesh,15,Saptari,18,Chhinnamasta Gaunpalika
+2,Madhesh,16,Siraha,1,Lahan Municipality
+2,Madhesh,16,Siraha,2,Dhangadhimai Municipality
+2,Madhesh,16,Siraha,3,Golbazar Municipality
+2,Madhesh,16,Siraha,4,Mirchaiya Municipality
+2,Madhesh,16,Siraha,5,Karjanha Municipality
+2,Madhesh,16,Siraha,6,Kalyanpur Municipality
+2,Madhesh,16,Siraha,7,Naraha Gaunpalika
+2,Madhesh,16,Siraha,8,Bishnupur Gaunpalika
+2,Madhesh,16,Siraha,9,Arnama Gaunpalika
+2,Madhesh,16,Siraha,10,Sukhipur Municipality
+2,Madhesh,16,Siraha,11,Laxmipur Patari Gaunpalika
+2,Madhesh,16,Siraha,12,Sakhuwa Nankarkatti Gaunpalika
+2,Madhesh,16,Siraha,13,Bhagawanpur Gaunpalika
+2,Madhesh,16,Siraha,14,Nawarajpur Gaunpalika
+2,Madhesh,16,Siraha,15,Bariyarpatti Gaunpalika
+2,Madhesh,16,Siraha,16,Aurahi Gaunpalika
+2,Madhesh,16,Siraha,17,Siraha Municipality
+2,Madhesh,17,Dhanusa,1,Ganeshman Charnath Municipality
+2,Madhesh,17,Dhanusa,2,Dhanushadham Municipality
+2,Madhesh,17,Dhanusa,3,Mithila Municipality
+2,Madhesh,17,Dhanusa,4,Bateshwor Gaunpalika
+2,Madhesh,17,Dhanusa,5,Chhireshwornath Municipality
+2,Madhesh,17,Dhanusa,6,Laxminiya Gaunpalika
+2,Madhesh,17,Dhanusa,7,Mithila Bihari Municipality
+2,Madhesh,17,Dhanusa,8,Hansapur Municipality
+2,Madhesh,17,Dhanusa,9,Sabaila Municipality
+2,Madhesh,17,Dhanusa,10,Shahidnagar Municipality
+2,Madhesh,17,Dhanusa,11,Kamala Municipality
+2,Madhesh,17,Dhanusa,12,Janak Nandini Gaunpalika
+2,Madhesh,17,Dhanusa,13,Bideha Municipality
+2,Madhesh,17,Dhanusa,14,Aurahi Gaunpalika
+2,Madhesh,17,Dhanusa,15,Janakpurdham Sub-Metropolitian City
+2,Madhesh,17,Dhanusa,16,Dhanauji Gaunpalika
+2,Madhesh,17,Dhanusa,17,Nagarain Municipality
+2,Madhesh,17,Dhanusa,18,Mukhiyapatti Musaharmiya Gaunpalika
+2,Madhesh,18,Mahottari,1,Bardibas Municipality
+2,Madhesh,18,Mahottari,2,Gaushala Municipality
+2,Madhesh,18,Mahottari,3,Sonama Gaunpalika
+2,Madhesh,18,Mahottari,4,Aurahi Municipality
+2,Madhesh,18,Mahottari,5,Bhangaha Municipality
+2,Madhesh,18,Mahottari,6,Loharpatti Municipality
+2,Madhesh,18,Mahottari,7,Balawa Municipality
+2,Madhesh,18,Mahottari,8,Ram Gopalpur Municipality
+2,Madhesh,18,Mahottari,9,Samsi Gaunpalika
+2,Madhesh,18,Mahottari,10,Manara Shisawa Municipality
+2,Madhesh,18,Mahottari,11,Ekadara Gaunpalika
+2,Madhesh,18,Mahottari,12,Mahottari Gaunpalika
+2,Madhesh,18,Mahottari,13,Pipara Gaunpalika
+2,Madhesh,18,Mahottari,14,Matihani Municipality
+2,Madhesh,18,Mahottari,15,Jaleshwor Municipality
+2,Madhesh,19,Sarlahi,1,Lalbandi Municipality
+2,Madhesh,19,Sarlahi,2,Hariwan Municipality
+2,Madhesh,19,Sarlahi,3,Bagmati Municipality
+2,Madhesh,19,Sarlahi,4,Barahathawa Municipality
+2,Madhesh,19,Sarlahi,5,Haripur Municipality
+2,Madhesh,19,Sarlahi,6,Ishworpur Municipality
+2,Madhesh,19,Sarlahi,7,Haripurwa Municipality
+2,Madhesh,19,Sarlahi,8,Parsa Gaunpalika
+2,Madhesh,19,Sarlahi,9,Brahmapuri Gaunpalika
+2,Madhesh,19,Sarlahi,10,Chandranagar Gaunpalika
+2,Madhesh,19,Sarlahi,11,Kabilashi Municipality
+2,Madhesh,19,Sarlahi,12,Chakraghatta Gaunpalika
+2,Madhesh,19,Sarlahi,13,Basbariya Gaunpalika
+2,Madhesh,19,Sarlahi,14,Dhanakaul Gaunpalika
+2,Madhesh,19,Sarlahi,15,Ramnagar Gaunpalika
+2,Madhesh,19,Sarlahi,16,Balara Municipality
+2,Madhesh,19,Sarlahi,17,Godaita Municipality
+2,Madhesh,19,Sarlahi,18,Bishnu Gaunpalika
+2,Madhesh,19,Sarlahi,19,Kaudena Gaunpalika
+2,Madhesh,19,Sarlahi,20,Malangawa Municipality
+2,Madhesh,20,Rautahat,1,Chandrapur Municipality
+2,Madhesh,20,Rautahat,2,Gujara Municipality
+2,Madhesh,20,Rautahat,3,Phatuwa Bijayapur Municipality
+2,Madhesh,20,Rautahat,4,Katahariya Municipality
+2,Madhesh,20,Rautahat,5,Brindaban Municipality
+2,Madhesh,20,Rautahat,6,Gadhimai Municipality
+2,Madhesh,20,Rautahat,7,Madhav Narayan Municipality
+2,Madhesh,20,Rautahat,8,Garuda Municipality
+2,Madhesh,20,Rautahat,9,Dewahi Gonahi Municipality
+2,Madhesh,20,Rautahat,10,Maulapur Municipality
+2,Madhesh,20,Rautahat,11,Boudhimai Municipality
+2,Madhesh,20,Rautahat,12,Paroha Municipality
+2,Madhesh,20,Rautahat,13,Rajpur Municipality
+2,Madhesh,20,Rautahat,14,Yamunamai Gaunpalika
+2,Madhesh,20,Rautahat,15,Durga Bhagawati Gaunpalika
+2,Madhesh,20,Rautahat,16,Rajdevi Municipality
+2,Madhesh,20,Rautahat,17,Gaur Municipality
+2,Madhesh,20,Rautahat,18,Ishanath Municipality
+2,Madhesh,21,Bara,1,Nijagadh Municipality
+2,Madhesh,21,Bara,2,Kolhabi Municipality
+2,Madhesh,21,Bara,3,Jitpur Simara Sub-Metropolitian City
+2,Madhesh,21,Bara,4,Parawanipur Gaunpalika
+2,Madhesh,21,Bara,5,Prasauni Gaunpalika
+2,Madhesh,21,Bara,6,Bishrampur Gaunpalika
+2,Madhesh,21,Bara,7,Pheta Gaunpalika
+2,Madhesh,21,Bara,8,Kalaiya Sub-Metropolitian City
+2,Madhesh,21,Bara,9,Karaiyamai Gaunpalika
+2,Madhesh,21,Bara,10,Baragadhi Gaunpalika
+2,Madhesh,21,Bara,11,Aadarsha Kotwal Gaunpalika
+2,Madhesh,21,Bara,12,Simroungadh Municipality
+2,Madhesh,21,Bara,13,Pacharauta Municipality
+2,Madhesh,21,Bara,14,Mahagadhimai Municipality
+2,Madhesh,21,Bara,15,Devtal Gaunpalika
+2,Madhesh,21,Bara,16,Subarna Gaunpalika
+2,Madhesh,22,Parsa,1,Thori Gaunpalika
+2,Madhesh,22,Parsa,2,Jirabhawani Gaunpalika
+2,Madhesh,22,Parsa,3,Jagarnathpur Gaunpalika
+2,Madhesh,22,Parsa,4,Paterwa Sugauli Gaunpalika
+2,Madhesh,22,Parsa,5,Sakhuwa Prasauni Gaunpalika
+2,Madhesh,22,Parsa,6,Parsagadhi Municipality
+2,Madhesh,22,Parsa,7,Birgunj Metropolitian City
+2,Madhesh,22,Parsa,8,Bahudarmai Municipality
+2,Madhesh,22,Parsa,9,Pokhariya Municipality
+2,Madhesh,22,Parsa,10,Kalikamai Gaunpalika
+2,Madhesh,22,Parsa,11,Dhobini Gaunpalika
+2,Madhesh,22,Parsa,12,Chhipaharmai Gaunpalika
+2,Madhesh,22,Parsa,13,Pakaha Mainpur Gaunpalika
+2,Madhesh,22,Parsa,14,Bindabasini Gaunpalika
+3,Bagmati,23,Dolakha,1,Gaurishankar Gaunpalika
+3,Bagmati,23,Dolakha,2,Bigu Gaunpalika
+3,Bagmati,23,Dolakha,3,Kalinchowk Gaunpalika
+3,Bagmati,23,Dolakha,4,Baiteshwor Gaunpalika
+3,Bagmati,23,Dolakha,5,Jiri Municipality
+3,Bagmati,23,Dolakha,6,Tamakoshi Gaunpalika
+3,Bagmati,23,Dolakha,7,Melung Gaunpalika
+3,Bagmati,23,Dolakha,8,Shailung Gaunpalika
+3,Bagmati,23,Dolakha,9,Bhimeshwor Municipality
+3,Bagmati,24,Sindhupalchok,1,Bhotekoshi Gaunpalika
+3,Bagmati,24,Sindhupalchok,2,Jugal Gaunpalika
+3,Bagmati,24,Sindhupalchok,3,Panchpokhari Thangpal Gaunpalika
+3,Bagmati,24,Sindhupalchok,4,Helambu Gaunpalika
+3,Bagmati,24,Sindhupalchok,5,Melanchi Municipality
+3,Bagmati,24,Sindhupalchok,6,Indrawoti Gaunpalika
+3,Bagmati,24,Sindhupalchok,7,Choutara Sangachowkgadhi Municipality
+3,Bagmati,24,Sindhupalchok,8,Balephi Gaunpalika
+3,Bagmati,24,Sindhupalchok,9,Bahrabise Municipality
+3,Bagmati,24,Sindhupalchok,10,Tripurasundari Gaunpalika
+3,Bagmati,24,Sindhupalchok,11,Lisankhu Pakhar Gaunpalika
+3,Bagmati,24,Sindhupalchok,12,Sunkoshi Gaunpalika
+3,Bagmati,25,Rasuwa,1,Gosaikunda Gaunpalika
+3,Bagmati,25,Rasuwa,2,Aamachhodingmo Gaunpalika
+3,Bagmati,25,Rasuwa,3,Uttargaya Gaunpalika
+3,Bagmati,25,Rasuwa,4,Kalika Gaunpalika
+3,Bagmati,25,Rasuwa,5,Naukunda Gaunpalika
+3,Bagmati,26,Dhading,1,Rubi Valley Gaunpalika
+3,Bagmati,26,Dhading,2,Khaniyabas Gaunpalika
+3,Bagmati,26,Dhading,3,Ganga Jamuna Gaunpalika
+3,Bagmati,26,Dhading,4,Tripurasundari Gaunpalika
+3,Bagmati,26,Dhading,5,Netrawati Dabjong Gaunpalika
+3,Bagmati,26,Dhading,6,Nilkhantha Municipality
+3,Bagmati,26,Dhading,7,Jwalamukhi Gaunpalika
+3,Bagmati,26,Dhading,8,Siddhalek Gaunpalika
+3,Bagmati,26,Dhading,9,Benighat Rorang Gaunpalika
+3,Bagmati,26,Dhading,10,Gajuri Gaunpalika
+3,Bagmati,26,Dhading,11,Galchhi Gaunpalika
+3,Bagmati,26,Dhading,12,Thakre Gaunpalika
+3,Bagmati,26,Dhading,13,Dhunibenshi Municipality
+3,Bagmati,27,Nuwakot,1,Dupcheshwor Gaunpalika
+3,Bagmati,27,Nuwakot,2,Tadi Gaunpalika
+3,Bagmati,27,Nuwakot,3,Suryagadhi Gaunpalika
+3,Bagmati,27,Nuwakot,4,Bidur Municipality
+3,Bagmati,27,Nuwakot,5,Kispang Gaunpalika
+3,Bagmati,27,Nuwakot,6,Myagang Gaunpalika
+3,Bagmati,27,Nuwakot,7,Tarakeshwor Gaunpalika
+3,Bagmati,27,Nuwakot,8,Belkotgadhi Municipality
+3,Bagmati,27,Nuwakot,9,Likhu Gaunpalika
+3,Bagmati,27,Nuwakot,10,Panchakanya Gaunpalika
+3,Bagmati,27,Nuwakot,11,Shivapuri Gaunpalika
+3,Bagmati,27,Nuwakot,12,Kakani Gaunpalika
+3,Bagmati,28,Kathmandu,1,Shankharapur Municipality
+3,Bagmati,28,Kathmandu,2,Kageshwori Manahara Municipality
+3,Bagmati,28,Kathmandu,3,Gokarneshwor Municipality
+3,Bagmati,28,Kathmandu,4,Budhanilkhantha Municipality
+3,Bagmati,28,Kathmandu,5,Tokha Municipality
+3,Bagmati,28,Kathmandu,6,Tarakeshwor Municipality
+3,Bagmati,28,Kathmandu,7,Nagarjun Municipality
+3,Bagmati,28,Kathmandu,8,Kathmandu Metropolitian City
+3,Bagmati,28,Kathmandu,9,Kirtipur Municipality
+3,Bagmati,28,Kathmandu,10,Chandragiri Municipality
+3,Bagmati,28,Kathmandu,11,Dakshinkali Municipality
+3,Bagmati,29,Bhaktapur,1,Changunarayan Municipality
+3,Bagmati,29,Bhaktapur,2,Bhaktapur Municipality
+3,Bagmati,29,Bhaktapur,3,Madhyapur Thimi Municipality
+3,Bagmati,29,Bhaktapur,4,Suryabinayak Municipality
+3,Bagmati,30,Lalitpur,1,Mahalaxmi Municipality
+3,Bagmati,30,Lalitpur,2,Lalitpur Metropolitian City
+3,Bagmati,30,Lalitpur,3,Godawari Municipality
+3,Bagmati,30,Lalitpur,4,Konjyosom Gaunpalika
+3,Bagmati,30,Lalitpur,5,Mahankal Gaunpalika
+3,Bagmati,30,Lalitpur,6,Bagmati Gaunpalika
+3,Bagmati,31,Kavrepalanchok,1,Chauri Deurali Gaunpalika
+3,Bagmati,31,Kavrepalanchok,2,Bhumlu Gaunpalika
+3,Bagmati,31,Kavrepalanchok,3,Mandan Deupur Municipality
+3,Bagmati,31,Kavrepalanchok,4,Banepa Municipality
+3,Bagmati,31,Kavrepalanchok,5,Dhulikhel Municipality
+3,Bagmati,31,Kavrepalanchok,6,Panchkhal Municipality
+3,Bagmati,31,Kavrepalanchok,7,Temal Gaunpalika
+3,Bagmati,31,Kavrepalanchok,8,Namobuddha Municipality
+3,Bagmati,31,Kavrepalanchok,9,Panauti Municipality
+3,Bagmati,31,Kavrepalanchok,10,Bethanchowk Gaunpalika
+3,Bagmati,31,Kavrepalanchok,11,Roshi Gaunpalika
+3,Bagmati,31,Kavrepalanchok,12,Mahabharat Gaunpalika
+3,Bagmati,31,Kavrepalanchok,13,Khanikhola Gaunpalika
+3,Bagmati,32,Ramechhap,1,Umakunda Gaunpalika
+3,Bagmati,32,Ramechhap,2,Gokulganga Gaunpalika
+3,Bagmati,32,Ramechhap,3,Likhu Tamakoshi Gaunpalika
+3,Bagmati,32,Ramechhap,4,Ramechhap Municipality
+3,Bagmati,32,Ramechhap,5,Manthali  Municipality
+3,Bagmati,32,Ramechhap,6,Khandadevi Gaunpalika
+3,Bagmati,32,Ramechhap,7,Doramba Gaunpalika
+3,Bagmati,32,Ramechhap,8,Sunapati Gaunpalika
+3,Bagmati,33,Sindhuli,1,Dudhouli Municipality
+3,Bagmati,33,Sindhuli,2,Phikkal Gaunpalika
+3,Bagmati,33,Sindhuli,3,Tinpatan Gaunpalika
+3,Bagmati,33,Sindhuli,4,Golanjor Gaunpalika
+3,Bagmati,33,Sindhuli,5,Kamalamai Municipality
+3,Bagmati,33,Sindhuli,6,Sunkoshi Gaunpalika
+3,Bagmati,33,Sindhuli,7,Ghyanglekha Gaunpalika
+3,Bagmati,33,Sindhuli,8,Marin Gaunpalika
+3,Bagmati,33,Sindhuli,9,Hariharpurgaghi Gaunpalika
+3,Bagmati,34,Makwanpur,1,Indrasarowar Gaunpalika
+3,Bagmati,34,Makwanpur,2,Thaha Municipality
+3,Bagmati,34,Makwanpur,3,Kailash Gaunpalika
+3,Bagmati,34,Makwanpur,4,Raksirang Gaunpalika
+3,Bagmati,34,Makwanpur,5,Manahari Gaunpalika
+3,Bagmati,34,Makwanpur,6,Hetauda Sub-Metropolitian City
+3,Bagmati,34,Makwanpur,7,Bhimphedi Gaunpalika
+3,Bagmati,34,Makwanpur,8,Makawanpurgadhi Gaunpalika
+3,Bagmati,34,Makwanpur,9,Bakaiya Gaunpalika
+3,Bagmati,34,Makwanpur,10,Bagmati Gaunpalika
+3,Bagmati,35,Chitawan,1,Rapti Municipality
+3,Bagmati,35,Chitawan,2,Kalika Municipality
+3,Bagmati,35,Chitawan,3,Ichchha Kamana Gaunpalika
+3,Bagmati,35,Chitawan,4,Bharatpur Metropolitian City
+3,Bagmati,35,Chitawan,5,Ratnanagar Municipality
+3,Bagmati,35,Chitawan,6,Khairahani Municipality
+3,Bagmati,35,Chitawan,7,Madi Municipality
+4,Gandaki,36,Gorkha,1,Chumanubri Gaunpalika
+4,Gandaki,36,Gorkha,2,Ajirkot Gaunpalika
+4,Gandaki,36,Gorkha,3,Barpak Sulikot Gaunpalika
+4,Gandaki,36,Gorkha,4,Dharche Gaunpalika
+4,Gandaki,36,Gorkha,5,Aarughat Gaunpalika
+4,Gandaki,36,Gorkha,6,Bhimsenthapa Gaunpalika
+4,Gandaki,36,Gorkha,7,Siranchowk Gaunpalika
+4,Gandaki,36,Gorkha,8,Palungtar Municipality
+4,Gandaki,36,Gorkha,9,Gorkha Municipality
+4,Gandaki,36,Gorkha,10,Shahid Lakhan Gaunpalika
+4,Gandaki,36,Gorkha,11,Gandaki Gaunpalika
+4,Gandaki,37,Manang,1,Narpa Bhumi Gaunpalika
+4,Gandaki,37,Manang,2,Manang Ngisyang Gaunpalika
+4,Gandaki,37,Manang,3,Chame Gaunpalika
+4,Gandaki,37,Manang,4,Nason Gaunpalika
+4,Gandaki,38,Mustang,1,Lo Ghekar Damodarkunda Gaunpalika
+4,Gandaki,38,Mustang,2,Gharpajhong Gaunpalika
+4,Gandaki,38,Mustang,3,Varagung Muktichhetra Gaunpalika
+4,Gandaki,38,Mustang,4,Lomanthang Gaunpalika
+4,Gandaki,38,Mustang,5,Thasang Gaunpalika
+4,Gandaki,39,Myagdi,1,Annapurna Gaunpalika
+4,Gandaki,39,Myagdi,2,Raghuganga Gaunpalika
+4,Gandaki,39,Myagdi,3,Dhawalagiri Gaunpalika
+4,Gandaki,39,Myagdi,4,Malika Gaunpalika
+4,Gandaki,39,Myagdi,5,Mangala Gaunpalika
+4,Gandaki,39,Myagdi,6,Beni Municipality
+4,Gandaki,40,Kaski,1,Madi Gaunpalika
+4,Gandaki,40,Kaski,2,Machhapuchchhre Gaunpalika
+4,Gandaki,40,Kaski,3,Annapurna Gaunpalika
+4,Gandaki,40,Kaski,4,Pokhara Metropolitian City
+4,Gandaki,40,Kaski,5,Rupa Gaunpalika
+4,Gandaki,41,Lamjung,1,Dordi Gaunpalika
+4,Gandaki,41,Lamjung,2,Marshyangdi Gaunpalika
+4,Gandaki,41,Lamjung,3,Kwhola Sothar Gaunpalika
+4,Gandaki,41,Lamjung,4,Madhya Nepal Municipality
+4,Gandaki,41,Lamjung,5,Bensishahar Municipality
+4,Gandaki,41,Lamjung,6,Sundarbazar Municipality
+4,Gandaki,41,Lamjung,7,Rainas Municipality
+4,Gandaki,41,Lamjung,8,Dudhapokhari Gaunpalika
+4,Gandaki,42,Tanahu,1,Bhanu Municipality
+4,Gandaki,42,Tanahu,2,Byas Municipality
+4,Gandaki,42,Tanahu,3,Myagde Gaunpalika
+4,Gandaki,42,Tanahu,4,Shuklagandaki Municipality
+4,Gandaki,42,Tanahu,5,Bhimad Municipality
+4,Gandaki,42,Tanahu,6,Ghiring Gaunpalika
+4,Gandaki,42,Tanahu,7,Rhishing Gaunpalika
+4,Gandaki,42,Tanahu,8,Devghat Gaunpalika
+4,Gandaki,42,Tanahu,9,Bandipur Gaunpalika
+4,Gandaki,42,Tanahu,10,Aanbu Khaireni Gaunpalika
+4,Gandaki,43,Nawalparasi (Bardaghat Susta East),1,Gaidakot Municipality
+4,Gandaki,43,Nawalparasi (Bardaghat Susta East),2,Bulingtar Gaunpalika
+4,Gandaki,43,Nawalparasi (Bardaghat Susta East),3,Baudikali Gaunpalika
+4,Gandaki,43,Nawalparasi (Bardaghat Susta East),4,Hupsekot Gaunpalika
+4,Gandaki,43,Nawalparasi (Bardaghat Susta East),5,Devchuli Municipality
+4,Gandaki,43,Nawalparasi (Bardaghat Susta East),6,Kawasoti Municipality
+4,Gandaki,43,Nawalparasi (Bardaghat Susta East),7,Madhya Bindu Municipality
+4,Gandaki,43,Nawalparasi (Bardaghat Susta East),8,Binayi Tribeni Gaunpalika
+4,Gandaki,44,Syangja,1,Putalibazar Municipality
+4,Gandaki,44,Syangja,2,Phedikhola Gaunpalika
+4,Gandaki,44,Syangja,3,Aandhikhola Gaunpalika
+4,Gandaki,44,Syangja,4,Arjun Choupari Gaunpalika
+4,Gandaki,44,Syangja,5,Bhirkot Municipality
+4,Gandaki,44,Syangja,6,Biruwa Gaunpalika
+4,Gandaki,44,Syangja,7,Harinas Gaunpalika
+4,Gandaki,44,Syangja,8,Chapakot Municipality
+4,Gandaki,44,Syangja,9,Walling Municipality
+4,Gandaki,44,Syangja,10,Galyang Municipality
+4,Gandaki,44,Syangja,11,Kaligandaki Gaunpalika
+4,Gandaki,45,Parbat,1,Modi Gaunpalika
+4,Gandaki,45,Parbat,2,Jaljala Gaunpalika
+4,Gandaki,45,Parbat,3,Kushma Municipality
+4,Gandaki,45,Parbat,4,Phalebas Municipality
+4,Gandaki,45,Parbat,5,Mahashila Gaunpalika
+4,Gandaki,45,Parbat,6,Bihadi Gaunpalika
+4,Gandaki,45,Parbat,7,Paiyu Gaunpalika
+4,Gandaki,46,Baglung,1,Baglung Municipality
+4,Gandaki,46,Baglung,2,Kathekhola Gaunpalika
+4,Gandaki,46,Baglung,3,Tarakhola Gaunpalika
+4,Gandaki,46,Baglung,4,Tamankhola Gaunpalika
+4,Gandaki,46,Baglung,5,Dhorpatan Municipality
+4,Gandaki,46,Baglung,6,Nisikhola Gaunpalika
+4,Gandaki,46,Baglung,7,Badigad Gaunpalika
+4,Gandaki,46,Baglung,8,Galkot Municipality
+4,Gandaki,46,Baglung,9,Bareng Gaunpalika
+4,Gandaki,46,Baglung,10,Jaimuni Municipality
+5,Lumbini,47,Rukum (East),1,Putha Uttanganga Gaunpalika
+5,Lumbini,47,Rukum (East),2,Sisne Gaunpalika
+5,Lumbini,47,Rukum (East),3,Bhoome Gaunpalika
+5,Lumbini,48,Rolpa,1,Sunchhahari Gaunpalika
+5,Lumbini,48,Rolpa,2,Thawang Gaunpalika
+5,Lumbini,48,Rolpa,3,Pariwartan Gaunpalika
+5,Lumbini,48,Rolpa,4,Gangadev Gaunpalika
+5,Lumbini,48,Rolpa,5,Madi Gaunpalika
+5,Lumbini,48,Rolpa,6,Tribeni Gaunpalika
+5,Lumbini,48,Rolpa,7,Rolpa Municipality
+5,Lumbini,48,Rolpa,8,Runtigadhi Gaunpalika
+5,Lumbini,48,Rolpa,9,Sunil Smriti Gaunpalika
+5,Lumbini,48,Rolpa,10,Lungri Gaunpalika
+5,Lumbini,49,Pyuthan,1,Gaumukhi Gaunpalika
+5,Lumbini,49,Pyuthan,2,Naubahini Gaunpalika
+5,Lumbini,49,Pyuthan,3,Jhimaruk Gaunpalika
+5,Lumbini,49,Pyuthan,4,Pyuthan Municipality
+5,Lumbini,49,Pyuthan,5,Sworgadwari Municipality
+5,Lumbini,49,Pyuthan,6,Mandavi Gaunpalika
+5,Lumbini,49,Pyuthan,7,Mallarani Gaunpalika
+5,Lumbini,49,Pyuthan,8,Aairawati Gaunpalika
+5,Lumbini,49,Pyuthan,9,Sarumarani Gaunpalika
+5,Lumbini,50,Gulmi,1,Kali Gandaki Gaunpalika
+5,Lumbini,50,Gulmi,2,Satyawoti Gaunpalika
+5,Lumbini,50,Gulmi,3,Chandrakot Gaunpalika
+5,Lumbini,50,Gulmi,4,Musikot Municipality
+5,Lumbini,50,Gulmi,5,Isma Gaunpalika
+5,Lumbini,50,Gulmi,6,Malika Gaunpalika
+5,Lumbini,50,Gulmi,7,Madane Gaunpalika
+5,Lumbini,50,Gulmi,8,Dhurkot Gaunpalika
+5,Lumbini,50,Gulmi,9,Resunga Municipality
+5,Lumbini,50,Gulmi,10,Gulmi Durbar Gaunpalika
+5,Lumbini,50,Gulmi,11,Chhatrakot Gaunpalika
+5,Lumbini,50,Gulmi,12,Ruruchhetra Gaunpalika
+5,Lumbini,51,Arghakhanchi,1,Chhatradev Gaunpalika
+5,Lumbini,51,Arghakhanchi,2,Malarani Gaunpalika
+5,Lumbini,51,Arghakhanchi,3,Bhumikasthan Municipality
+5,Lumbini,51,Arghakhanchi,4,Sandhikharka Municipality
+5,Lumbini,51,Arghakhanchi,5,Panini Gaunpalika
+5,Lumbini,51,Arghakhanchi,6,Shitaganga Municipality
+5,Lumbini,52,Palpa,1,Rampur Municipality
+5,Lumbini,52,Palpa,2,Purbakhola Gaunpalika
+5,Lumbini,52,Palpa,3,Rambha Gaunpalika
+5,Lumbini,52,Palpa,4,Baganaskali Gaunpalika
+5,Lumbini,52,Palpa,5,Tansen Municipality
+5,Lumbini,52,Palpa,6,Ribdikot Gaunpalika
+5,Lumbini,52,Palpa,7,Rainadevi Chhahara Gaunpalika
+5,Lumbini,52,Palpa,8,Tinau Gaunpalika
+5,Lumbini,52,Palpa,9,Mathagadhi Gaunpalika
+5,Lumbini,52,Palpa,10,Nisdi Gaunpalika
+5,Lumbini,53,Nawalparasi (Bardaghat Susta West),1,Bardaghat Municipality
+5,Lumbini,53,Nawalparasi (Bardaghat Susta West),2,Sunawal Municipality
+5,Lumbini,53,Nawalparasi (Bardaghat Susta West),3,Ramgram Municipality
+5,Lumbini,53,Nawalparasi (Bardaghat Susta West),4,Palhinandan Gaunpalika
+5,Lumbini,53,Nawalparasi (Bardaghat Susta West),5,Sarawal Gaunpalika
+5,Lumbini,53,Nawalparasi (Bardaghat Susta West),6,Pratapapur Gaunpalika
+5,Lumbini,53,Nawalparasi (Bardaghat Susta West),7,Susta Gaunpalika
+5,Lumbini,54,Rupandehi,1,Devdaha Municipality
+5,Lumbini,54,Rupandehi,2,Butwal Sub-Metropolitian City
+5,Lumbini,54,Rupandehi,3,Sainamaina Municipality
+5,Lumbini,54,Rupandehi,4,Kanchan Gaunpalika
+5,Lumbini,54,Rupandehi,5,Gaidahawa Gaunpalika
+5,Lumbini,54,Rupandehi,6,Suddhodhan Gaunpalika
+5,Lumbini,54,Rupandehi,7,Siyari Gaunpalika
+5,Lumbini,54,Rupandehi,8,Tilottama Municipality
+5,Lumbini,54,Rupandehi,9,Om Satiya Gaunpalika
+5,Lumbini,54,Rupandehi,10,Rohini Gaunpalika
+5,Lumbini,54,Rupandehi,11,Siddharthanagar Municipality
+5,Lumbini,54,Rupandehi,12,Mayadevi Gaunpalika
+5,Lumbini,54,Rupandehi,13,Lumbini Sanskritik Municipality
+5,Lumbini,54,Rupandehi,14,Kotahimai Gaunpalika
+5,Lumbini,54,Rupandehi,15,Sammarimai Gaunpalika
+5,Lumbini,54,Rupandehi,16,Marchawari Gaunpalika
+5,Lumbini,55,Kapilbastu,1,Banganga Municipality
+5,Lumbini,55,Kapilbastu,2,Buddhabhumi Municipality
+5,Lumbini,55,Kapilbastu,3,Shivaraj Municipality
+5,Lumbini,55,Kapilbastu,4,Bijayanagar Gaunpalika
+5,Lumbini,55,Kapilbastu,5,Krishnanagar Municipality
+5,Lumbini,55,Kapilbastu,6,Maharajganj Municipality
+5,Lumbini,55,Kapilbastu,7,Kapilbastu Municipality
+5,Lumbini,55,Kapilbastu,8,Yasodhara Gaunpalika
+5,Lumbini,55,Kapilbastu,9,Mayadevi Gaunpalika
+5,Lumbini,55,Kapilbastu,10,Shuddhodhan Gaunpalika
+5,Lumbini,56,Dang,1,Bangalachuli Gaunpalika
+5,Lumbini,56,Dang,2,Ghorahi Sub-Metropolitian City
+5,Lumbini,56,Dang,3,Tulsipur Sub-Metropolitian City
+5,Lumbini,56,Dang,4,Shantinagar Gaunpalika
+5,Lumbini,56,Dang,5,Babai Gaunpalika
+5,Lumbini,56,Dang,6,Dangisharan Gaunpalika
+5,Lumbini,56,Dang,7,Lamahi Municipality
+5,Lumbini,56,Dang,8,Rapti Gaunpalika
+5,Lumbini,56,Dang,9,Gadhawa Gaunpalika
+5,Lumbini,56,Dang,10,Rajpur Gaunpalika
+5,Lumbini,57,Banke,1,Rapti Sonari Gaunpalika
+5,Lumbini,57,Banke,2,Kohalpur Municipality
+5,Lumbini,57,Banke,3,Baijanath Gaunpalika
+5,Lumbini,57,Banke,4,Khajura Gaunpalika
+5,Lumbini,57,Banke,5,Janaki Gaunpalika
+5,Lumbini,57,Banke,6,Nepalganj Sub-Metropolitian City
+5,Lumbini,57,Banke,7,Duduwa Gaunpalika
+5,Lumbini,57,Banke,8,Narainapur Gaunpalika
+5,Lumbini,58,Bardiya,1,Bansgadhi Municipality
+5,Lumbini,58,Bardiya,2,Barbardiya Municipality
+5,Lumbini,58,Bardiya,3,Thakurbaba Municipality
+5,Lumbini,58,Bardiya,4,Geruwa Gaunpalika
+5,Lumbini,58,Bardiya,5,Rajapur Municipality
+5,Lumbini,58,Bardiya,6,Madhuwan Municipality
+5,Lumbini,58,Bardiya,7,Gulariya Municipality
+5,Lumbini,58,Bardiya,8,Badhaiyatal Gaunpalika
+6,Karnali,59,Dolpa,1,Dolpo Buddha Gaunpalika
+6,Karnali,59,Dolpa,2,Shey Phoksundo Gaunpalika
+6,Karnali,59,Dolpa,3,Jagadulla Gaunpalika
+6,Karnali,59,Dolpa,4,Mudkechula Gaunpalika
+6,Karnali,59,Dolpa,5,Tripurasundari Municipality
+6,Karnali,59,Dolpa,6,Thulibheri Municipality
+6,Karnali,59,Dolpa,7,Kaike Gaunpalika
+6,Karnali,59,Dolpa,8,Chharka Tangsong Gaunpalika
+6,Karnali,60,Mugu,1,Mugumakarmarog Gaunpalika
+6,Karnali,60,Mugu,2,Chhayanath Rara Municipality
+6,Karnali,60,Mugu,3,Soru Gaunpalika
+6,Karnali,60,Mugu,4,Khatyad Gaunpalika
+6,Karnali,61,Humla,1,Chankheli Gaunpalika
+6,Karnali,61,Humla,2,Kharpunath Gaunpalika
+6,Karnali,61,Humla,3,Simkot Gaunpalika
+6,Karnali,61,Humla,4,Namkha Gaunpalika
+6,Karnali,61,Humla,5,Sarkegad Gaunpalika
+6,Karnali,61,Humla,6,Adanchuli Gaunpalika
+6,Karnali,61,Humla,7,Tanjakot Gaunpalika
+6,Karnali,62,Jumla,1,Patarasi Gaunpalika
+6,Karnali,62,Jumla,2,Kanaka Sundari Gaunpalika
+6,Karnali,62,Jumla,3,Sinja Gaunpalika
+6,Karnali,62,Jumla,4,Chandannath Municipality
+6,Karnali,62,Jumla,5,Guthichaur Gaunpalika
+6,Karnali,62,Jumla,6,Tatopani Gaunpalika
+6,Karnali,62,Jumla,7,Tila Gaunpalika
+6,Karnali,62,Jumla,8,Hima Gaunpalika
+6,Karnali,63,Kalikot,1,Palata Gaunpalika
+6,Karnali,63,Kalikot,2,Pachal Jharana Gaunpalika
+6,Karnali,63,Kalikot,3,Raskot Municipality
+6,Karnali,63,Kalikot,4,Sanni Tribeni Gaunpalika
+6,Karnali,63,Kalikot,5,Naraharinath Gaunpalika
+6,Karnali,63,Kalikot,6,Khandachakra Municipality
+6,Karnali,63,Kalikot,7,Tilagupha Municipality
+6,Karnali,63,Kalikot,8,Mahawai Gaunpalika
+6,Karnali,63,Kalikot,9,Shuva Kalika Gaunpalika
+6,Karnali,64,Dailekh,1,Naumule Gaunpalika
+6,Karnali,64,Dailekh,2,Mahabu Gaunpalika
+6,Karnali,64,Dailekh,3,Bhairabi Gaunpalika
+6,Karnali,64,Dailekh,4,Thantikandh Gaunpalika
+6,Karnali,64,Dailekh,5,Aathbis Municipality
+6,Karnali,64,Dailekh,6,Chamunda Bindrasaini Municipality
+6,Karnali,64,Dailekh,7,Dullu Municipality
+6,Karnali,64,Dailekh,8,Narayan Municipality
+6,Karnali,64,Dailekh,9,Bhagawatimai Gaunpalika
+6,Karnali,64,Dailekh,10,Dungeshwor Gaunpalika
+6,Karnali,64,Dailekh,11,Gurans Gaunpalika
+6,Karnali,65,Jajarkot,1,Barekot Gaunpalika
+6,Karnali,65,Jajarkot,2,Kuse Gaunpalika
+6,Karnali,65,Jajarkot,3,Junichande Gaunpalika
+6,Karnali,65,Jajarkot,4,Chhedagad Municipality
+6,Karnali,65,Jajarkot,5,Shivalaya Gaunpalika
+6,Karnali,65,Jajarkot,6,Bheri Malika Municipality
+6,Karnali,65,Jajarkot,7,Nalgad Municipality
+6,Karnali,66,Rukum (West),1,Aathabisakot Municipality
+6,Karnali,66,Rukum (West),2,Sanibheri Gaunpalika
+6,Karnali,66,Rukum (West),3,Banphikot Gaunpalika
+6,Karnali,66,Rukum (West),4,Musikot Municipality
+6,Karnali,66,Rukum (West),5,Tribeni Gaunpalika
+6,Karnali,66,Rukum (West),6,Chaurjahari Municipality
+6,Karnali,67,Salyan,1,Darma Gaunpalika
+6,Karnali,67,Salyan,2,Kumakh Gaunpalika
+6,Karnali,67,Salyan,3,Banagad Kupinde Municipality
+6,Karnali,67,Salyan,4,Siddha Kumakh Gaunpalika
+6,Karnali,67,Salyan,5,Bagachour Municipality
+6,Karnali,67,Salyan,6,Chhatreshwori Gaunpalika
+6,Karnali,67,Salyan,7,Sharada Municipality
+6,Karnali,67,Salyan,8,Kalimati Gaunpalika
+6,Karnali,67,Salyan,9,Tribeni Gaunpalika
+6,Karnali,67,Salyan,10,Kapurkot Gaunpalika
+6,Karnali,68,Surkhet,1,Simta Gaunpalika
+6,Karnali,68,Surkhet,2,Chingad Gaunpalika
+6,Karnali,68,Surkhet,3,Lekabeshi Municipality
+6,Karnali,68,Surkhet,4,Gurbhakot Municipality
+6,Karnali,68,Surkhet,5,Bheriganga Municipality
+6,Karnali,68,Surkhet,6,Birendranagar Municipality
+6,Karnali,68,Surkhet,7,Barahatal Gaunpalika
+6,Karnali,68,Surkhet,8,Panchapuri Municipality
+6,Karnali,68,Surkhet,9,Chaukune Gaunpalika
+7,Sudurpashchim,69,Bajura,1,Himali Gaunpalika
+7,Sudurpashchim,69,Bajura,2,Gaumul Gaunpalika
+7,Sudurpashchim,69,Bajura,3,Budhinanda Municipality
+7,Sudurpashchim,69,Bajura,4,Swamikartik Khapar Gaunpalika
+7,Sudurpashchim,69,Bajura,5,Jagannath Gaunpalika
+7,Sudurpashchim,69,Bajura,6,Badimalika Municipality
+7,Sudurpashchim,69,Bajura,7,Khaptad Chhededaha Gaunpalika
+7,Sudurpashchim,69,Bajura,8,Budhiganga Municipality
+7,Sudurpashchim,69,Bajura,9,Tribeni Municipality
+7,Sudurpashchim,70,Bajhang,1,Saipal Gaunpalika
+7,Sudurpashchim,70,Bajhang,2,Bungal Municipality
+7,Sudurpashchim,70,Bajhang,3,Surma Gaunpalika
+7,Sudurpashchim,70,Bajhang,4,Talkot Gaunpalika
+7,Sudurpashchim,70,Bajhang,5,Masta Gaunpalika
+7,Sudurpashchim,70,Bajhang,6,Jayaprithbi Municipality
+7,Sudurpashchim,70,Bajhang,7,Chhabis Pathibhara Gaunpalika
+7,Sudurpashchim,70,Bajhang,8,Durgathali Gaunpalika
+7,Sudurpashchim,70,Bajhang,9,Kedarsyun Gaunpalika
+7,Sudurpashchim,70,Bajhang,10,Bitthadchir Gaunpalika
+7,Sudurpashchim,70,Bajhang,11,Thalara Gaunpalika
+7,Sudurpashchim,70,Bajhang,12,Khaptad Chhanna Gaunpalika
+7,Sudurpashchim,71,Darchula,1,Byas Gaunpalika
+7,Sudurpashchim,71,Darchula,2,Duhun Gaunpalika
+7,Sudurpashchim,71,Darchula,3,Mahakali Municipality
+7,Sudurpashchim,71,Darchula,4,Naugad  Gaunpalika
+7,Sudurpashchim,71,Darchula,5,Apihimal Gaunpalika
+7,Sudurpashchim,71,Darchula,6,Marma Gaunpalika
+7,Sudurpashchim,71,Darchula,7,Shailyashikhar Municipality
+7,Sudurpashchim,71,Darchula,8,Malikarjun Gaunpalika
+7,Sudurpashchim,71,Darchula,9,Lekam Gaunpalika
+7,Sudurpashchim,72,Baitadi,1,Dilasaini Gaunpalika
+7,Sudurpashchim,72,Baitadi,2,Dogada Kedar Gaunpalika
+7,Sudurpashchim,72,Baitadi,3,Puchaundi Municipality
+7,Sudurpashchim,72,Baitadi,4,Surnaya Gaunpalika
+7,Sudurpashchim,72,Baitadi,5,Dasharathchand Municipality
+7,Sudurpashchim,72,Baitadi,6,Pancheshwor Gaunpalika
+7,Sudurpashchim,72,Baitadi,7,Shivanath Gaunpalika
+7,Sudurpashchim,72,Baitadi,8,Melauli Municipality
+7,Sudurpashchim,72,Baitadi,9,Patan Municipality
+7,Sudurpashchim,72,Baitadi,10,Sigas Gaunpalika
+7,Sudurpashchim,73,Dadeldhura,1,Nawadurga Gaunpalika
+7,Sudurpashchim,73,Dadeldhura,2,Amargadhi Municipality
+7,Sudurpashchim,73,Dadeldhura,3,Ajayameru Gaunpalika
+7,Sudurpashchim,73,Dadeldhura,4,Bhageshwor Gaunpalika
+7,Sudurpashchim,73,Dadeldhura,5,Parashuram Municipality
+7,Sudurpashchim,73,Dadeldhura,6,Aalital Gaunpalika
+7,Sudurpashchim,73,Dadeldhura,7,Ganyapdhura Gaunpalika
+7,Sudurpashchim,74,Doti,1,Purbichouki Gaunpalika
+7,Sudurpashchim,74,Doti,2,Sayal Gaunpalika
+7,Sudurpashchim,74,Doti,3,Aadarsha Gaunpalika
+7,Sudurpashchim,74,Doti,4,Shikhar Municipality
+7,Sudurpashchim,74,Doti,5,Dipayal Silgadhi Municipality
+7,Sudurpashchim,74,Doti,6,K.I. Singh Gaunpalika
+7,Sudurpashchim,74,Doti,7,Bogatan Phudsil Gaunpalika
+7,Sudurpashchim,74,Doti,8,Badi Kedar Gaunpalika
+7,Sudurpashchim,74,Doti,9,Jorayal Gaunpalika
+7,Sudurpashchim,75,Achham,1,Panchdebal Binayak Municipality
+7,Sudurpashchim,75,Achham,2,Ramaroshan Gaunpalika
+7,Sudurpashchim,75,Achham,3,Mellekh Gaunpalika
+7,Sudurpashchim,75,Achham,4,Sanphebagar Municipality
+7,Sudurpashchim,75,Achham,5,Chaurpati Gaunpalika
+7,Sudurpashchim,75,Achham,6,Mangalsen Municipality
+7,Sudurpashchim,75,Achham,7,Bannigadhi Jayagadh Gaunpalika
+7,Sudurpashchim,75,Achham,8,Kamal Bazar Municipality
+7,Sudurpashchim,75,Achham,9,Dhakari Gaunpalika
+7,Sudurpashchim,75,Achham,10,Turmakhand Gaunpalika
+7,Sudurpashchim,76,Kailali,1,Mohanyal Gaunpalika
+7,Sudurpashchim,76,Kailali,2,Chure Gaunpalika
+7,Sudurpashchim,76,Kailali,3,Godawari Municipality
+7,Sudurpashchim,76,Kailali,4,Gauriganga Municipality
+7,Sudurpashchim,76,Kailali,5,Ghodaghodi Municipality
+7,Sudurpashchim,76,Kailali,6,Bardagoriya Gaunpalika
+7,Sudurpashchim,76,Kailali,7,Lamki Chuha Municipality
+7,Sudurpashchim,76,Kailali,8,Janaki Gaunpalika
+7,Sudurpashchim,76,Kailali,9,Joshipur Gaunpalika
+7,Sudurpashchim,76,Kailali,10,Tikapur Municipality
+7,Sudurpashchim,76,Kailali,11,Bhajani Municipality
+7,Sudurpashchim,76,Kailali,12,Kailari Gaunpalika
+7,Sudurpashchim,76,Kailali,13,Dhangadhi Sub-Metropolitian City
+7,Sudurpashchim,77,Kanchanpur,1,Krishnapur Municipality
+7,Sudurpashchim,77,Kanchanpur,2,Shuklaphanta Municipality
+7,Sudurpashchim,77,Kanchanpur,3,Bedkot Municipality
+7,Sudurpashchim,77,Kanchanpur,4,Bhimdatta Municipality
+7,Sudurpashchim,77,Kanchanpur,5,Dodhara Chandani Municipality
+7,Sudurpashchim,77,Kanchanpur,6,Laljhadi Gaunpalika
+7,Sudurpashchim,77,Kanchanpur,7,Punarbas Municipality
+7,Sudurpashchim,77,Kanchanpur,8,Belouri Municipality
+7,Sudurpashchim,77,Kanchanpur,9,Beldandi Gaunpalika
