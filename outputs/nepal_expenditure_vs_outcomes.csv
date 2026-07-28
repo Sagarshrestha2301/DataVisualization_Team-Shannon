@@ -1,0 +1,9 @@
+Province,Expenditure_Total_Rs,Expenditure_Poor_Rs,Expenditure_NonPoor_Rs,Literacy_Rate_Pct,NER_Basic_Pct,NER_Secondary_Pct,NER_Tertiary_Pct
+Nepal,29742,6145,35682,77.4,96.2,47.6,16.7
+Koshi,28767,6965,32536,78.2,96.3,52.9,16.0
+Madhesh,15293,6432,17540,68.3,91.7,31.8,5.8
+Bagmati,64320,10189,72184,83.0,98.7,60.4,31.1
+Gandaki,35167,7663,39062,83.4,99.3,61.7,18.7
+Lumbini,22795,5245,28426,80.1,97.4,43.8,13.4
+Karnali,12788,3295,16354,76.6,97.7,54.6,13.1
+Sudurpaschim,13454,4558,18511,73.5,98.6,46.8,16.5

@@ -1,0 +1,25 @@
+year_bs,year_ad,level,school_type,students_total,teachers_total,str
+2077,2020/21,Basic Education (Grade 1-8),Private (Institutional),1333116,68366,19.5
+2078,2021/22,Basic Education (Grade 1-8),Private (Institutional),1446543,44020,32.9
+2079,2022/23,Basic Education (Grade 1-8),Private (Institutional),1575178,44020,35.8
+2080,2023/24,Basic Education (Grade 1-8),Private (Institutional),1678848,63712,26.4
+2081,2024/25,Basic Education (Grade 1-8),Private (Institutional),1885465,63942,29.5
+2082,2025/26,Basic Education (Grade 1-8),Private (Institutional),2115826,63942,33.1
+2077,2020/21,Basic Education (Grade 1-8),Public (Community),3899050,188811,20.7
+2078,2021/22,Basic Education (Grade 1-8),Public (Community),3879437,263777,14.7
+2079,2022/23,Basic Education (Grade 1-8),Public (Community),3734403,263777,14.2
+2080,2023/24,Basic Education (Grade 1-8),Public (Community),3692859,155536,23.7
+2081,2024/25,Basic Education (Grade 1-8),Public (Community),3343460,154221,21.7
+2082,2025/26,Basic Education (Grade 1-8),Public (Community),3258446,141442,23
+2077,2020/21,Secondary (Grade 9-12),Private (Institutional),468326,22100,21.2
+2078,2021/22,Secondary (Grade 9-12),Private (Institutional),391316,25516,15.3
+2079,2022/23,Secondary (Grade 9-12),Private (Institutional),414667,25516,16.3
+2080,2023/24,Secondary (Grade 9-12),Private (Institutional),468948,27240,17.2
+2081,2024/25,Secondary (Grade 9-12),Private (Institutional),482614,27337,17.7
+2082,2025/26,Secondary (Grade 9-12),Private (Institutional),541344,27299,19.8
+2077,2020/21,Secondary (Grade 9-12),Public (Community),1266788,41299,30.7
+2078,2021/22,Secondary (Grade 9-12),Public (Community),1378838,32653,42.2
+2079,2022/23,Secondary (Grade 9-12),Public (Community),1366622,32653,41.9
+2080,2023/24,Secondary (Grade 9-12),Public (Community),1302607,32205,40.4
+2081,2024/25,Secondary (Grade 9-12),Public (Community),1177887,36413,32.3
+2082,2025/26,Secondary (Grade 9-12),Public (Community),1125209,44208,25
